@@ -1,7 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Rubik', sans-serif;        
+    background: beige;
 }
 nav ul, footer ul {    
     padding: 0px;
@@ -14,10 +15,13 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #333;
+    background: white;
+    text-decoration: underline;
 }
 a:hover {
     text-decoration: underline;
+    background-color: aquamarine
 }
 h1 {
     font-size: 3em;    
@@ -39,4 +43,12 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+input {
+    line-height: 1.618rem;
+    border: none;
+    outline: none;
+    padding: .618rem;
+    font-size: 1.2rem;
 }
