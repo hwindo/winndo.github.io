@@ -1,0 +1,18 @@
+.post-list {
+    list-style:  none;
+}
+.post-item {
+    display: flex;
+    flex-flow: column;
+    > .date {
+        font-size: 1em;
+        line-height: 1.2rem;     
+        margin-bottom: .6rem;
+    }
+    > .title {        
+        line-height: 2rem;
+        font-size: 1.6rem;
+        letter-spacing: 0.15em;        
+        // margin-left: 1.3rem;
+    }
+}
