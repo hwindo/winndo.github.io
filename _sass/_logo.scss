@@ -1,0 +1,37 @@
+@keyframes rotateLogo {
+    0% {        
+        // transform: rotate(-15deg);
+        
+    }
+    83% {        
+        transform: rotate(15deg) translate(10px, 0px);
+    }
+    100% {
+        transform: rotate(360deg) translate(0px, 0px);
+
+    }
+}
+@keyframes zoomIn {
+    0% {
+        transform: scale(1.0);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1.0);
+    }
+}
+.logo-link {
+    background: none;
+    &:hover { background: none; }
+}
+
+.logo.-animate {    
+    &:hover {
+        cursor: pointer;
+    }
+    animation: 
+        rotateLogo 2s .3s alternate, 
+        zoomIn .3s alternate;
+}

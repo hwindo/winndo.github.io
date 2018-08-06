@@ -1,8 +1,7 @@
-body {
-    margin: 60px auto;
-    width: 70%;
+body {    
     font-family: 'Rubik', sans-serif;        
-    background: beige;
+    background:rgba(255,152,0,0.16);
+    font-size: 16px;    
 }
 nav ul, footer ul {    
     padding: 0px;
@@ -26,9 +25,8 @@ a:hover {
 h1 {
     font-size: 3em;    
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+p {    
+    line-height: 1.618em;
     color: #333;
 }
 footer {
@@ -51,10 +49,4 @@ input {
     outline: none;
     padding: .618rem;
     font-size: 1.2rem;
-}
-
-.container {
-    display: grid;
-    width: 100%;
-    // grid-template-columns: 61.8% 38.2%;
 }

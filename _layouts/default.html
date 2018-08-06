@@ -1,39 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+name: default
+---
+{% include header.html %}
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{{ page.title }}</title>
-    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/css/styles.css">
-</head>
-
-<body>
-    <nav>
+    <section class="main">
+        {{ content }}   
+    </section>     
+    <aside class="sidebar">
+        <h2>Playground</h2>
+        <p>Experiments, plugins and articles related to front end development</p>
         <ul>
-            <li>
-                <a href="/">Home</a>
-                <!-- <a href="/about">About</a>
-                <a href="/cv">CV</a> -->
-                <a href="/blog">Blog</a>
-            </li>
-        </ul>
-    </nav>
-    <div class="container">
-        {{ content }}
-    </div>
-    <footer>
-        <ul>
-            <li>
-                <a href="mailto:herwindo.artono@gmail.com">herwindo.artono@gmail.com</a>
-            </li>
-            <li>
-                <a href="https://github.com/hantumobil">github.com/hantumobil</a>
-            </li>
-        </ul>
-    </footer>
-</body>
+            <li><a href="/playground/animate-svg-menu">Animate SVG Menu</a></li>
+        </ul>                
+    </aside>
 
-</html>
+{% include footer.html %}

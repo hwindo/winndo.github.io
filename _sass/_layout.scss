@@ -1,0 +1,40 @@
+.header {
+    padding-top: 20px;
+    grid-area: header;
+}
+.footer {
+    grid-area: footer;
+}
+.main {
+    grid-area: main;
+    align-self: start;
+}
+.sidebar {
+    grid-area: sidebar;    
+    align-self: start;
+    border-left: 1px solid rgba(0,0,0,0.16);
+    padding-left: 1.618rem;
+}
+
+.container {    
+    display: grid;
+    grid-template-columns: auto 61.8vw auto auto;
+    grid-template-rows: auto 74vh auto;    
+    gap: 1.618rem;
+    grid-template-areas:
+        ". header header header"
+        ". main sidebar ."
+        ". footer footer footer";    
+}
+
+.row {
+    display: flex;
+    flex-flow: row wrap;
+    > .col {
+        flex: 1;
+    }
+    > .col-big {
+        flex: 1.618;
+    }
+}
+
