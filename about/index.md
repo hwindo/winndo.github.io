@@ -1,12 +1,12 @@
 --- 
 layout: about
 imgUrl: /assets/img/windo-naya.jpeg
-imgCaption: picture of Me and my first son
+imgCaption: Me and my first son
 ---
 # Hello
-Thanks for coming By :)
+Thanks for coming By :).
 
-My name is Windo, I live a happy life with my wife and 2x sons in Indonesia, I enjoy working with technology, and I can stare in front of computer monitor for hours.
+My name is Windo, I live a happy life with my wife and my 2 sons in Indonesia, I enjoy working with technology, and I can stare in front of computer monitor for hours.
 
 I've been in Simulation Industry for approximately 10 years-ish, during that period, I was mostly given roles to manage peoples using various tools like JIRA, Confluence, Trello, Gitlab and so on.
 
@@ -15,7 +15,7 @@ On the other side I manage to learn skills in **Front-End Engineering** with tec
 ### My Resume
 You can download and view my resume [Here (PDF) &raquo;](/assets/pdf/WindoResume2018EN.pdf)
 
-anything you want to talk about, please contact me on email: [herwindo.artono@gmail.com](mailto:herwindo.artono@gmail.com)
+anything you want to talk about, please contact me on email: [windo@w-digital.co](mailto:windo@w-digital.co) or [herwindo.artono@gmail.com](mailto:herwindo.artono@gmail.com)
 
 other presence on web:
 - [github](https://github.com/hantumobil)
@@ -25,4 +25,4 @@ other presence on web:
 
 
 
-I Built this site with [Jekyll](https://jekyllrb.com), repo [github.com/hantumobil](https://github.com/hantumobil)
+Site built with: [Jekyll](https://jekyllrb.com), repo [github.com/hantumobil](https://github.com/hantumobil)
