@@ -1,0 +1,13 @@
+---
+name: playground
+layout: default
+---
+<h1 class="page-title">
+    <span class="title">{{page.title}}</span>
+</h1>
+<p class="meta">{{page.date | date_to_string}}</p>
+<a class="playground-btn" href="{{page.demoUrl}}" target="_blank">DEMO</a>
+<a class="playground-btn" href="{{page.sourceUrl}}" target="_blank">SOURCE</a>
+<div class="post-content">
+    {{content}}
+</div>

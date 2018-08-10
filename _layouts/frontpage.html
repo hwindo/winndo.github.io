@@ -1,7 +1,14 @@
 ---
-name: default
+name: frontpage
 ---
 {% include header.html %}
+
+    <div id="screen-loader" class="screen-loader">
+        <img src="/assets/img/w-digital.png" alt="" class="loading-logo">
+        <div class="loading-txt">
+            w-digital.co
+        </div>
+    </div>
 
     <section class="main">
         {{ content }}
@@ -14,7 +21,8 @@ name: default
         </ul>
 
         <h2>Resume</h2>
-        <p>Find my resume <a href="/assets/pdf/WindoResume2018EN.pdf" target="_blank">Here</a>.</p>
+        <p>Find my resume <a href="/assets/pdf/WindoResume2018EN.pdf">Here</a>.</p>
     </aside>
 
 {% include footer.html %}
+

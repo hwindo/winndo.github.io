@@ -1,0 +1,72 @@
+@keyframes rotateLogo {
+    0% {
+        // transform: rotate(-15deg);        
+    }
+    83% {
+        transform: rotate(15deg) translate(10px, 0px);
+    }
+    100% {
+        transform: rotate(360deg) translate(0px, 0px);
+    }
+}
+
+@keyframes zoomIn {
+    0% {
+        transform: scale(1.0);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1.0);
+    }
+}
+
+@keyframes bounceRight {
+    0% {
+        transform: translate(10px, 0);
+    }
+    25% {
+        transform: translate(0, 0);
+    }
+    50% {
+        transform: translate(5px, 0);
+    }
+    75% {
+        transform: translate(0, 0);
+    }
+}
+
+@keyframes slideFadeInUp {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 25%, 0);
+    }
+}
+
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes slideFullUp {
+    to {
+        transform: translate3d(0, -100%, 0);
+    }
+}
+@keyframes slideUpInContent {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 62px, 0);
+    }
+    to {
+        opacity: 1;        
+    }
+}
+@keyframes slideUpOutContent {
+    to {
+        opacity: 0;
+        transform: translate3d(0, 62px, 0);
+    }
+}

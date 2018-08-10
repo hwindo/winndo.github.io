@@ -1,0 +1,14 @@
+.playground-btn {
+    background-color:#d330b3;
+    display: inline-block;
+    line-height: 1em;
+    padding: 0.3rem 0.618rem;
+    margin: 0 .3em .618em 0;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    &:hover {
+        text-decoration: none;
+    }
+}
