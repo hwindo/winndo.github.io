@@ -1,5 +1,10 @@
 name: Windo
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+highlighter: rouge
+
 sass:
   sass_dir: _sass  
+collections:
+  playground:
+    output: true
