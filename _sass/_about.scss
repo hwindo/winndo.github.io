@@ -1,0 +1,77 @@
+:root {
+    --about-figure-width: 38%;
+}
+
+.about-figure {
+    margin-bottom: 1.5em;
+    margin-right: 3em;
+    width: var(--about-figure-width, 38%);
+    float: left;
+    border: 1em solid white;
+    border-radius: 3px;
+    box-shadow: .6em .6em 0 rgba(0,0,0,.06);
+    transform: rotateX('15deg');
+    zoom: 100%;
+    overflow: hidden;
+    p {     
+        background: white;
+        margin: 0; 
+        > img.img {
+            max-width: 100%;            
+        }
+        > .caption {            
+            font-weight: normal;            
+            margin: 0;   
+        }
+    }
+    
+}
+
+@media screen and (max-width: 720px) {
+    :root {
+        --about-figure-width: 100%;        
+    }
+    .about-figure {
+        float: none;        
+        height: 26rem;   
+        p {
+            position: relative;
+            bottom: 25rem;            
+        }
+    }
+
+}
+@media screen and (max-width: 670px) {    
+    .about-figure {        
+        p {
+            position: relative;
+            bottom: 20rem;            
+        }
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .about-figure {
+        p {
+            bottom: 18rem;
+        }
+    }
+}
+
+@media screen and (max-width: 480px) {    
+    .about-figure {        
+        height: 26rem;        
+        p {
+            bottom: 10rem;            
+        }
+    }
+}
+
+@media screen and (max-width: 380px) {    
+    .about-figure {        
+        height: 18rem;        
+        p {
+            bottom: 8rem;            
+        }
+    }
+}

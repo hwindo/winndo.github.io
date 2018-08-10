@@ -1,9 +1,28 @@
+--- 
+layout: about
+imgUrl: /assets/img/windo-naya.jpeg
+imgCaption: picture of Me and my first son
 ---
-layout: default
-title: About
----
-# About
-Built with [Jekyll](https://jekyllrb.com)
+# Hello
+Thanks for coming By :)
 
-- repo [github](https://github.com)
+My name is Windo, I live a happy life with my wife and 2x sons in Indonesia, I enjoy working with technology, and I can stare in front of computer monitor for hours.
 
+I've been in Simulation Industry for approximately 10 years-ish, during that period, I was mostly given roles to manage peoples using various tools like JIRA, Confluence, Trello, Gitlab and so on.
+
+On the other side I manage to learn skills in **Front-End Engineering** with technologies like **HTML**, **CSS/SCSS**, **Javascript**, **Vue**, and also some Back-End technologies like **Node JS**, **Rethinkdb**, and even **linux terminal**. And So I given chance to also work on some Company's project as **Full Stack Engineer** and **Front End Developer**.
+
+### My Resume
+You can download and view my resume [Here (PDF) &raquo;](/assets/pdf/WindoResume2018EN.pdf)
+
+anything you want to talk about, please contact me on email: [herwindo.artono@gmail.com](mailto:herwindo.artono@gmail.com)
+
+other presence on web:
+- [github](https://github.com/hantumobil)
+- [stackoverflow](https://stackoverflow.com/users/1528098/windo)
+- [treehouse](https://teamtreehouse.com/windo)
+- [freecodecamp](https://www.freecodecamp.org/windo)
+
+
+
+I Built this site with [Jekyll](https://jekyllrb.com), repo [github.com/hantumobil](https://github.com/hantumobil)
