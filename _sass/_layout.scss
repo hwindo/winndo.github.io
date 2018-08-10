@@ -18,7 +18,7 @@
 
 .container {    
     display: grid;
-    grid-template-columns: auto 61.8% auto auto;
+    grid-template-columns: 5% 61.8% auto 5%;
     grid-template-rows: auto 74% auto;    
     gap: 1.618rem;
     grid-template-areas:
