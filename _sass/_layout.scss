@@ -24,7 +24,9 @@
     grid-template-areas:
         ". header header header"
         ". main main sidebar"
-        ". footer footer footer";    
+        ". footer footer footer";
+    max-width: 2260px;
+    margin: auto;
 }
 
 .row {
