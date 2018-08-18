@@ -79,10 +79,11 @@ ul.project-meta {
 }
 
 ul.category-list,
-ul.project-links {
+ul.project-links {    
     &::before {
         margin-right: .618em;        
         opacity: .8;
+        letter-spacing: .1em;
     }
 }
 
