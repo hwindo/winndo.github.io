@@ -1,0 +1,96 @@
+- title: Dailynote
+  description: This is my personal project, built to track our daily activities so you can review them later.
+  otherLinks: true
+  url:
+    main: https://note-77916.firebaseapp.com/#/
+    site: https://note-77916.firebaseapp.com/#/
+    thumb: /assets/img/projects/dailynote-1.jpg
+  meta:
+    role: Full-Stack Developer
+    year: 2018
+  tags:
+    - Web App
+    - Vue
+    - Vuex
+    - Vue-Router
+    - Firebase
+
+
+- title: Responsive Web Design Projects
+  description: This is a collection of responsive web pages, built for for my Responsive Web Design Certification, you can see my certificate here https://www.freecodecamp.org/certification/windo/responsive-web-design
+  otherLinks: true
+  url:
+    main: https://codepen.io/collection/XmmbON/
+    codepen: https://codepen.io/collection/XmmbON/
+    thumb: /assets/img/projects/rwd-projects-codepen.jpg
+    certificate: https://www.freecodecamp.org/certification/windo/responsive-web-design
+  meta:
+    role: Front-End Engineering
+    year: 2018
+    client: freecodecamp
+    clientUrl: freecodecamp.org
+  tags:
+    - Responsive Web Design
+    - Front End Engineering
+    - HTML5
+    - CSS3
+    - Certification
+
+
+- title: Qyu (e-commerce)
+  description: An e-commerce project, this is a new business setup, to extend existing brick and mortar business. The works included Domain and Hosting setup, email setup, Branding, Shopify setup
+  meta:
+    role: Full-Stack Developer, Brand Identity Design
+    year: 2016
+    client: 198internasional
+    clientUrl: 198internasional.com
+  otherLinks: true
+  url:
+    main: https://cipta-niaga.firebaseapp.com/
+    site: https://cipta-niaga.firebaseapp.com/
+    thumb: /assets/img/projects/q-namecard-back.jpg
+  tags:
+    - e-commerce
+    - shopify
+    - Vue
+    - Firebase
+    - Brand Identity & Logo Design
+
+
+- title: Lombok Info App
+  description: Android App to help travellers when visiting Lombok. The app was not in the playstore anymore, but you can download the APK using the link above.
+  otherLinks: true
+  url:
+    main: https://www.apkmonk.com/app/com.icelamp.lombok/
+    thumb: /assets/img/projects/lombok-info-on-playstore.jpg
+    download: https://www.apkmonk.com/app/com.icelamp.lombok/
+  meta:
+    role: Front-End Developer
+    year: 2015
+    client: biruProject
+  tags:
+    - Android App
+    - HTML5
+    - CSS3
+    - topcoat.io
+    - cordova
+    - apache cordova
+
+
+- title: Portfolio Landing Page
+  description: This is a personal landing page to showcase portfolio list, built in codepen.io as part of Responsive
+                Web Design certification project.
+  meta:
+    role: Front-End Developer
+    year: 2018
+  tags:
+    - Responsive Web Design
+    - Landing Page
+    - Portfolio
+    - HTML5
+    - CSS3
+  otherLinks: true
+  url:
+    main: https://codepen.io/windo/full/xJNwNa
+    thumb: /assets/img/projects/windo-portfolio-landing-page.png
+    codepen: https://codepen.io/windo/full/xJNwNa  

@@ -8,4 +8,4 @@ description: A Journey to craft your digital product through Web Design, Web App
 **Managing People | Front End Engineering | Full Stack Engineering**
 
 I've been doing people management, crafting web apps using Vue, Node JS, rethinkdb, and doing some other things. <br>
-View more about me in [About &raquo;](/about) page, or You can view my experiments in [Playground &raquo;](/playground) and [codepen/windo](https://codepen.io/windo/).<br>
+View [more about me](/about) page, or [see my projects](/projects) and [experiments](/playground).<br>

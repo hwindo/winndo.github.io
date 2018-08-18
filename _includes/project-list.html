@@ -1,0 +1,75 @@
+<ul class="project-list">
+    {% for project in site.data.project_list %}
+    <li class="project-item row">
+        <div class="thumbnail">
+            <a href="{{ project.url.main }}" target="_blank">
+                <figure class="img-container">                    
+                    <img src="{{ project.url.thumb }}" alt="{{ project.title }}" class="img">
+                    <figcaption>{{ project.title }}</figcaption>
+                </figure>
+            </a>
+        </div>
+        <div class="content">
+            <a href="{{ project.url.main }}" target="_blank">
+                <h2 class="title">{{ project.title }}</h2>
+            </a>
+            {% if project.otherLinks %}
+            <ul class="project-links">
+                {% if project.url.codepen %}
+                <li class="link-item">
+                    <a href="{{project.url.codepen}}" target="_blank">
+                        <img src="https://blog.codepen.io/wp-content/uploads/2012/06/codepen-wordmark-display-inside-black@10x.png" width="80px">
+                    </a>
+                </li>
+                {% endif %}
+                {% if project.url.download %}
+                <li class="link-item">                    
+                    <a href="{{project.url.download}}" target="_blank">
+                        &darr; Download
+                    </a>
+                </li>
+                {% endif %}
+                {% if project.url.site %}
+                <li class="link-item">                    
+                    <a href="{{project.url.download}}" target="_blank">
+                        Site &rarr;
+                    </a>
+                </li>
+                {% endif %}
+                {% if project.url.certificate %}                
+                <li class="link-item">                    
+                    <a href="{{project.url.certificate}}" target="_blank">
+                        Certificate &rarr;
+                    </a>
+                </li>
+                {% endif %}
+            </ul>
+            {% endif %}
+            <div class="description">{{ project.description }}</div>
+            <ul class="project-meta item-list">
+                {% if project.meta.role %}
+                <li class="item">Role:
+                    <strong>{{ project.meta.role }}</strong>
+                </li>
+                {% endif %}
+                {% if project.meta.year %}
+                <li class="item">Year:
+                    <strong>{{ project.meta.year }}</strong>
+                </li>
+                {% endif %}
+                {% if project.meta.client %}
+                <li class="item">Client: 
+                    <strong>{{ project.meta.client }}</strong>
+                </li>                
+                {% endif %}
+            </ul>
+            <ul class="category-list">
+                {% for tag in project.tags %}
+                <li class="category-item">&check; {{ tag }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </li>
+    {% endfor %}
+
+</ul>
