@@ -6,7 +6,7 @@
     site: https://note-77916.firebaseapp.com/#/
     thumb: /assets/img/projects/dailynote-1.jpg
   meta:
-    role: Full-Stack Developer
+    role: Product Owner, Full Stack
     year: 2018
   tags:
     - Web App
@@ -31,11 +31,39 @@
     clientUrl: freecodecamp.org
   tags:
     - Responsive Web Design
-    - Front End Engineering
+    - Front End Engineer
     - HTML5
     - CSS3
     - Certification
 
+- title: APIs and Microservices Projects
+  description: In this project, I build microservices using Node JS in glitch.me, it was a fun project!
+    micro services links
+      <ul>
+        <li><a href="https://hill-experience.glitch.me" target="_blank">&check; timestamp</a></li>
+        <li><a href="https://hissing-reaper.glitch.me" target="_blank">&check; Header Parser</a></li>
+        <li><a href="https://smooth-pine.glitch.me" target="_blank">&check; URL Shortener</a></li>
+        <li><a href="https://dear-jelly.glitch.me" target="_blank">&check; Exercise Tracker</a></li>
+        <li><a href="https://pyrite-croissant.glitch.me" target="_blank">&check; File Metadata</a></li>
+      </ul>
+    This project is for APIs and Microservices Developer Certification, representing approximately 300 hours of coursework.
+  otherLinks: true
+  url:
+    main: https://www.freecodecamp.org/certification/windo/apis-and-microservices
+    thumb: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20bc6324f6ef2969d9a7cae56b8d4d1&auto=format&fit=crop&w=3300&q=80
+    certificate: https://www.freecodecamp.org/certification/windo/apis-and-microservices
+    site: https://dear-jelly.glitch.me
+  meta:
+    role: Full Stack Engineer
+    year: 2018
+    client: freecodecamp
+    clientUrl: freecodecamp.org
+  tags:
+    - APIs
+    - Micro Service
+    - Node js
+    - glitch.me
+  
 
 - title: Qyu (e-commerce)
   description: An e-commerce project, this is a new business setup, to extend existing brick and mortar business. The works included Domain and Hosting setup, email setup, Branding, Shopify setup
