@@ -43,6 +43,9 @@ img {
 .project-item {
     list-style-type: none;
     width: 100%;
+    &.row {
+        margin: 1.618em 0;
+    }
     >.thumbnail {
         flex-basis: 38%;
         padding: 1.618em .618em;
@@ -74,7 +77,7 @@ ul.project-meta {
     background: rgba(255, 255, 255, .6);
     border-radius: 6px;
     padding: .618em 1em;
-    margin: .618em 0;
+    margin: 1.618em 0;
     display: inline-block;
     transform: rotateZ(-1.6deg);
     border: 1px solid white;
