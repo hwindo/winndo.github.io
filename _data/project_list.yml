@@ -37,8 +37,11 @@
     - Certification
 
 - title: APIs and Microservices Projects
-  description: In this project, I build microservices using Node JS in glitch.me, it was a fun project!
-    micro services links
+  description: 
+    This is my attemp to get APIs and Microservices Developer Certification, this certificate representing approximately 300 hours of coursework.
+    In this project, I build microservices using Node JS and mongoDB using glitch.me and visual studio code, it was a fun project.
+    
+    Here are links to services
       <ul>
         <li><a href="https://hill-experience.glitch.me" target="_blank">&check; timestamp</a></li>
         <li><a href="https://hissing-reaper.glitch.me" target="_blank">&check; Header Parser</a></li>
@@ -46,7 +49,7 @@
         <li><a href="https://dear-jelly.glitch.me" target="_blank">&check; Exercise Tracker</a></li>
         <li><a href="https://pyrite-croissant.glitch.me" target="_blank">&check; File Metadata</a></li>
       </ul>
-    This project is for APIs and Microservices Developer Certification, representing approximately 300 hours of coursework.
+    nice laptop thumbnail credits - <a href="https://unsplash.com/photos/95YRwf6CNw8" target="_blank">Clément H</a>
   otherLinks: true
   url:
     main: https://www.freecodecamp.org/certification/windo/apis-and-microservices
