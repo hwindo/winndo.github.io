@@ -1,7 +1,8 @@
 body {    
     font-family: 'Rubik', sans-serif;        
-    background:rgba(255,152,0,0.16);
-    font-size: 16px;    
+    background: $body-bg; // rgba(255,152,0,0.16);
+    font-size: 16px;
+    color: $darkgrey;
 }
 nav ul, footer ul {    
     padding: 0px;
@@ -15,12 +16,13 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #333;
-    background: white;
+    background: var(--a-bg);
     text-decoration: underline;
 }
 a:hover {
     text-decoration: underline;
-    background-color: aquamarine
+    color: var(--a-color-hover);
+    background-color: var(--a-bg-hover);
 }
 h1 {
     font-size: 3em;    

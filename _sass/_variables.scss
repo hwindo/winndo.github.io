@@ -1,3 +1,8 @@
+$teal: #e3d9ca;
+$darkgrey: #403f48;
+$body-bg: rgba(255,152,0,0.16);
+$body-color: $darkgrey;
+
 :root {
     --purple: #e14594;
     --purple-dark: #7045af;
@@ -5,7 +10,9 @@
     --blue-dark: #182952;
     --body-color: white;
     --a-color: rgba(255, 255, 255, .83);
-    --a-color-hover: rgba(255, 255, 255, .83);
+    --a-bg: rgba(255, 255, 255, .62);
+    --a-color-hover: inherit;
+    --a-bg-hover: aquamarine;
     --header-bg-color: var(--blue);
     --welcome-bg-color: var(--blue);
 }
