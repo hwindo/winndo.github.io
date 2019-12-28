@@ -15,7 +15,7 @@ I've been in a company engaged in Simulation Industry for about 10 years. During
 On the other hand I manage to learn skills in **Front-End Engineering** with technologies like **HTML**, **CSS/SCSS**, **Javascript**, **Vue**, and also some Back-End technologies like **Node JS**, **Rethinkdb**, and even **linux terminal**. And So I given chance to also work on some Company's project as **Full Stack Engineer** and **Front End Developer**.
 
 ## My Resume
-You can download my resume [here (docx)](/assets/resume/WindoResume2018EN.docx) or [here (pdf)](/assets/resume/WindoResume2018EN.pdf)
+You can download my resume [here (docx)](/assets/resume/WindoResume2019EN.docx) or [here (pdf)](/assets/resume/WindoResume2019EN.pdf)
 
 ## Contact
 Please contact me through email: [windo@w-digital.co](mailto:windo@w-digital.co) or [herwindo.artono@gmail.com](mailto:herwindo.artono@gmail.com)
