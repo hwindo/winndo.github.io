@@ -25,15 +25,15 @@ self.addEventListener('install', function (event) {
 });
 
 self.addEventListener('fetch', function (event) {
-    console.log(logName, 'event.request:', event.request.url);
+    // console.log(logName, 'event.request:', event.request.url);
     event.respondWith(
         caches.match(event.request)
             .then(function (response) {
                 if (response) {
-                    console.log(logName, 'load from cache', response.url);
+                    // console.log(logName, 'load from cache', response.url);
                     return response;
                 }
-                console.log(logName, 'fetch network', event.request.url);
+                // console.log(logName, 'fetch network', event.request.url);
                 const fetchRequest = event.request.clone();
 
                 return fetch(fetchRequest).then(function(response) {
