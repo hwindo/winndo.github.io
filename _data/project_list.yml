@@ -1,3 +1,72 @@
+- title: Gojek's Site Rebranding 2019
+  description: Gojek's main site get new facelift, following new rebranding of company's in 2019.
+  otherLinks: true
+  url:
+    main: https://gojek.com/
+    site: https://gojek.com/
+    thumb: /assets/img/projects/gojek-site-2019.jpg
+  meta:
+    role: Frontend Developer
+    year: 2019
+  tags:
+    - Website
+    - Corporate
+    - Django
+    - BEM
+
+- title: Gofigure
+  description: Gofigure is A podcast discussing the inner workings of tech companies.
+  otherLinks: true
+  url:
+    main: https://gofigure.go-jek.com/
+    site: https://gofigure.go-jek.com/
+    thumb: /assets/img/projects/gofigure-site-2019.jpg
+  meta:
+    role: Frontend Developer
+    year: 2019
+  tags:
+    - Website
+    - Frontend
+    - Podcast
+    - Django
+    - BEM
+
+
+- title: Star-W
+  description: A resource catalog, built using React
+  otherLinks: true
+  url:
+    main: https://github.com/winndo/star-w
+    site: https://github.com/winndo/star-w
+    github: https://github.com/winndo/star-w
+    thumb: /assets/img/projects/star-w-sceenshot-desktop.png
+  meta:
+    role: Product Owner, Frontend Developer
+    year: 2018
+  tags:
+    - Web App
+    - React
+    - API
+    - SPA
+
+
+- title: React-Exchange
+  description: A currency converter Web App (Single Page Application) built using React.
+  otherLinks: true
+  url:
+    main: https://react-exchange.netlify.com/
+    site: https://react-exchange.netlify.com/
+    thumb: /assets/img/projects/react-exchange-screenshot.png
+  meta:
+    role: Product Owner, Frontend Developer
+    year: 2018
+  tags:
+    - Web App
+    - React
+    - API
+    - SPA
+
+
 - title: Dailynote
   description: This is my personal project, built to track our daily activities so you can review them later.
   otherLinks: true
@@ -6,7 +75,7 @@
     site: https://note-77916.firebaseapp.com/#/
     thumb: /assets/img/projects/dailynote-1.jpg
   meta:
-    role: Product Owner, Full Stack
+    role: Product Owner, Full Stack Developer
     year: 2018
   tags:
     - Web App
