@@ -36,8 +36,8 @@
   description: A resource catalog, built using React
   otherLinks: true
   url:
-    main: https://github.com/winndo/star-w
-    site: https://github.com/winndo/star-w
+    main: https://star-w.netlify.com/
+    site: https://star-w.netlify.com/
     github: https://github.com/winndo/star-w
     thumb: /assets/img/projects/star-w-sceenshot-desktop.png
   meta:
