@@ -1,10 +1,12 @@
-- title: Embraer E-Jet
+- title: E-Jet
   description: This is an exciting product, it is not yet published so minimum details can only be written. a custom made aircraft made for Microsoft Flight Simulator. It is using web technology for its glass cockpits. 
   url:
+    thumb: /assets/img/projects/e-jet-dev.jpg
   meta:
     role: Software Engineer
     year: 2022
   tags:
+    - MSFS
     - Javascript
     - Canvas
     - Web Component
