@@ -1,3 +1,91 @@
+- title: Embraer E-Jet
+  description: This is an exciting product, it is not yet published so minimum details can only be written. a custom made aircraft made for Microsoft Flight Simulator. It is using web technology for its glass cockpits. 
+  url:
+  meta:
+    role: Software Engineer
+    year: 2022
+  tags:
+    - Javascript
+    - Canvas
+    - Web Component
+    - WASM
+    - SVG
+    - XML
+    - C++
+
+
+- title: Budaya AI
+  description: Text Analysis application to measure company cultures. It is almost like a SaaS, each order built specifically to be integrated to its own e-learning platform. The link you see here is a demo from the real application.
+  otherLinks: true
+  url:
+    main: https://demo.budaya.site
+    site: https://budaya.site
+    thumb: /assets/img/projects/budaya-ai-homepage.png
+  meta:
+    role: Tech Lead
+    year: 2020 - 2022
+  tags:
+    - Vue
+    - Tailwind CSS
+    - Typescript
+    - Python
+    - Flask
+
+- title: Qopnet
+  description: a custom e-commerce, B2B later planned to be B2B2C, the challenge here is we have to be efficient to deliver a scalable e-commerce platform and by partnering with online course provider as our strategic partner, we are able to deliver a high quality site in a very tight schedule.
+  otherLinks: true
+  url:
+    main: https://qopnet.id/
+    site: https://qopnet.id/
+    thumb: /assets/img/projects/qopnet-homepage.png
+  meta:
+    role: Tech Lead
+    year: 2020 - 2022
+  tags:
+    - Vue
+    - Tailwind CSS
+    - Typescript
+    - Python
+    - Flask
+    
+
+- title: PartsSearch
+  description: A web app for Car repairers and Parts Suppliers, based in Australia - My role was a Vue/HTML/CSS developer
+  otherLinks: true
+  url:
+    main: https://partssearch.com.au/
+    site: https://partssearch.com.au/
+    thumb: /assets/img/projects/partssearch-homepage.png
+  meta:
+    role: Frontend Engineer
+    year: 2020 - 2022
+  tags:
+    - Web App
+    - B2B
+    - Multinational Team
+    - Vue
+    - Bootstrap-Vue
+
+- title: Cosmo
+  description: An auto-reward App for restaurants in the US market, build almost everything from the Node JS server, IOS Apps (using webview a lot), merchant dashboard, SMS Application, web scraping, API consuming for various delivery app service/ordering service, and email templates. 
+  otherLinks: true
+  url:
+    main: https://rest-o-client.netlify.app/
+    site: https://cosmowards.com
+    thumb: /assets/img/projects/cosmoward-homepage.png
+  meta:
+    role: Full-stack
+    year: 2020 - 2021
+  tags:
+    - Mobile App
+    - Web Dashboard
+    - B2B
+    - Node JS
+    - IOS
+    - Email
+    - Web Automation
+    - MongoDB
+
 - title: Gojek's Site Rebranding 2019
   description: Gojek's main site get new facelift, following new rebranding of company's in 2019.
   otherLinks: true
