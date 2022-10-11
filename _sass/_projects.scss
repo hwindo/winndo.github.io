@@ -17,6 +17,9 @@ figure {
     overflow: hidden;
     >img {
         max-width: 100%;
+        max-height: 330px;
+        object-fit: cover;
+        object-position: top;
         width: 100%;
         height: auto;
     }
