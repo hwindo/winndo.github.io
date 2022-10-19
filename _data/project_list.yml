@@ -14,21 +14,6 @@
     - SVG
     - XML
 
-- title: Canvas App
-  description: A utility dashboard using Canvas as main attraction, it uses the latest Vue 3, Tailwind 3, Vuex, and JSON API standard
-  otherLinks: true
-  url:
-    thumb: /assets/img/projects/uapi-canvas.jpg
-  meta:
-    role: Frontend Developer
-    year: 2021 - 2022
-  tags:
-    - Multination Team
-    - Vue 3
-    - Tailwind CSS
-    - Vuex
-    - JSON API
-
 - title: Budaya AI
   description: Text Analysis application to measure company cultures. It is almost like a SaaS, each order built specifically to be integrated to its own e-learning platform. The link you see here is a demo from the real application.
   otherLinks: true
@@ -45,6 +30,21 @@
     - Typescript
     - Python
     - Flask
+
+- title: Canvas App
+  description: A utility dashboard using Canvas as main attraction, it uses the latest Vue 3, Tailwind 3, Vuex, and JSON API standard
+  otherLinks: true
+  url:
+    thumb: /assets/img/projects/uapi-canvas.jpg
+  meta:
+    role: Frontend Developer
+    year: 2020 - 2022
+  tags:
+    - Multination Team
+    - Vue 3
+    - Tailwind CSS
+    - Vuex
+    - JSON API
 
 - title: Qopnet
   description: a custom e-commerce, B2B later planned to be B2B2C, the challenge here is we have to be efficient to deliver a scalable e-commerce platform and by partnering with online course provider as our strategic partner, we are able to deliver a high quality site in a very tight schedule.
